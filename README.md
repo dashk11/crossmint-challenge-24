@@ -4,12 +4,8 @@ candidate id - `245b9d9e-a0ae-4d24-8854-ba383f1e0ef7`
 
 ## Overview
 
-This project solves the **Crossmint Challenge**, where the task is to construct grids of astral objects (Polyanets, Soloons, and Comeths) based on a given configuration. The challenge is divided into two phases:
-
 - **Phase 1**: Build a grid using only Polyanets based on the target configuration.
 - **Phase 2**: Construct a symmetric grid involving multiple object types using a quadrant-based approach to optimize performance.
-
-The implementation prioritizes **efficiency**, **modularity**, and **reusability**.
 
 ---
 
